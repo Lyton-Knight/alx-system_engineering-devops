@@ -6,4 +6,5 @@ The file 4-listmorefiles is displaying the files of the current working director
 The file 5-listfilesdigitonly displays files of the working directory's IDs
 The file 6-firstdirectory will create a new directory inside the directory tmp
 The file 7-movethatfile will move file named betty from /tmp/ to /tmp/my_first_directory
-The file 9-firstdelete will delete the betty file in the directory /tmp/my_first_directory 
+The file 8-firstdelete will delete the betty file in the directory /tmp/my_first_directory
+The file 9-firstdirdeletion will delete the dir /tmp/my_first_directory 
