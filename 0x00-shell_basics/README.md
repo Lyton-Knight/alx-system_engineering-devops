@@ -4,3 +4,4 @@ The file 2-bring_me_home will change the current working directory to the user's
 The file 3-listfiles will display the contents of the current working directory in long format
 The file 4-listmorefiles is displaying the files of the current working directory including the hidden files 
 The file 5-listfilesdigitonly displays files of the working directory's IDs
+The file 6-firstdirectory will create a new directory inside the directory tmp
