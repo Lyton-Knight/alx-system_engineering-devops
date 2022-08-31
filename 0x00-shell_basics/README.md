@@ -10,3 +10,4 @@ The file 8-firstdelete will delete the betty file in the directory /tmp/my_first
 The file 9-firstdirdeletion will delete the dir /tmp/my_first_directory 
 The file 10-back will change the current working directory to the previous one
 The file 11-list will display files including hidden file 
+The file 12-file_type will return the type of a file 
